@@ -1,0 +1,15 @@
+/mnt/monstrinho/programming/Adivinhe-o-numero/Adivinhe/bin/Debug/net10.0/Adivinhe
+/mnt/monstrinho/programming/Adivinhe-o-numero/Adivinhe/bin/Debug/net10.0/Adivinhe.deps.json
+/mnt/monstrinho/programming/Adivinhe-o-numero/Adivinhe/bin/Debug/net10.0/Adivinhe.runtimeconfig.json
+/mnt/monstrinho/programming/Adivinhe-o-numero/Adivinhe/bin/Debug/net10.0/Adivinhe.dll
+/mnt/monstrinho/programming/Adivinhe-o-numero/Adivinhe/bin/Debug/net10.0/Adivinhe.pdb
+/mnt/monstrinho/programming/Adivinhe-o-numero/Adivinhe/obj/Debug/net10.0/Adivinhe.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/monstrinho/programming/Adivinhe-o-numero/Adivinhe/obj/Debug/net10.0/Adivinhe.AssemblyInfoInputs.cache
+/mnt/monstrinho/programming/Adivinhe-o-numero/Adivinhe/obj/Debug/net10.0/Adivinhe.AssemblyInfo.cs
+/mnt/monstrinho/programming/Adivinhe-o-numero/Adivinhe/obj/Debug/net10.0/Adivinhe.csproj.CoreCompileInputs.cache
+/mnt/monstrinho/programming/Adivinhe-o-numero/Adivinhe/obj/Debug/net10.0/Adivinhe.sourcelink.json
+/mnt/monstrinho/programming/Adivinhe-o-numero/Adivinhe/obj/Debug/net10.0/Adivinhe.dll
+/mnt/monstrinho/programming/Adivinhe-o-numero/Adivinhe/obj/Debug/net10.0/refint/Adivinhe.dll
+/mnt/monstrinho/programming/Adivinhe-o-numero/Adivinhe/obj/Debug/net10.0/Adivinhe.pdb
+/mnt/monstrinho/programming/Adivinhe-o-numero/Adivinhe/obj/Debug/net10.0/Adivinhe.genruntimeconfig.cache
+/mnt/monstrinho/programming/Adivinhe-o-numero/Adivinhe/obj/Debug/net10.0/ref/Adivinhe.dll
